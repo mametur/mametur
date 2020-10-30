@@ -1,16 +1,13 @@
-### Hi there 👋
+## <div style="text-align: center"> <img src="https://media.giphy.com/media/hvPVnM5DQFeLe/giphy.gif" width="80px"></br> <p> Hello World, I'm Mamé Azad</p></div>
 
-<!--
-**mametur/mametur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Stackoverflow Badge](https://img.shields.io/badge/-MaméAzad-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7326407/aashutosh-rathi)](https://stackoverflow.com/users/12596038/mam%c3%a9?tab=profile) [![Linkedin Badge](https://img.shields.io/badge/-MaméAzad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashutoshrathi/)](https://www.linkedin.com/in/mam%C3%A9/) [![Gmail Badge](https://img.shields.io/badge/-mameazad.turgut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@aashutosh.dev)](mailto:mameazad.turgut@gmail.com)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Node.js and MongoDB ✨ 🔭.
+- 👯 I’m looking to collaborate on projects made with Node.js
+- 💬 Ask me about GIT.
+- 😄 Pronouns: He/Him 🙍🏻‍♂️
+- ⚡ Fun fact: To help my friends and learn with.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats 📊
+
+![Mamé Azad's github stats](https://github-readme-stats.vercel.app/api?username=mametur&theme=radical&show_icons=true)
