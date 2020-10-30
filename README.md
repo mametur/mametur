@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects made with Node.js
 - 💬 Ask me about GIT.
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
-- ⚡ Fun fact: To help my friends and learn with.
+- ⚡ Fun fact: Helping my friends and learning with them.
 
 ## GitHub Stats 📊
 
