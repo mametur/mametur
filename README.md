@@ -8,4 +8,4 @@
 
 ## GitHub Stats 📊
 
-![Mamé Azad's github stats](https://github-readme-stats.vercel.app/api?username=mametur&theme=radical&show_icons=true)
+![Mazad's github stats](https://github-readme-stats.vercel.app/api?username=mametur&theme=radical&show_icons=true)
